@@ -1,0 +1,9 @@
+{
+  "name": "in_memory_sorting",
+  "version": "1.0.0",
+  "description": "In memory Sorting",
+  "main": "index.js",
+  "repository": "https://github.com/Yushkevich-A-A/in_memory_sorting.git",
+  "author": "Yushkevich-A-A <Mortifer1993@yandex.ru>",
+  "license": "MIT"
+}
