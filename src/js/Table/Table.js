@@ -1,3 +1,5 @@
+/* eslint-disable class-methods-use-this */
+
 export default class Table {
   constructor(data = null) {
     this.data = data;
